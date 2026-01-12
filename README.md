@@ -5,4 +5,4 @@
 
 ![Estatua](Editar%20la%20estatua%20de%20t.png)
 
-![Imagen](20251216_133514.jpg)
+<img src="20251216_133514.jpg" alt="Imagen" width="400" />
